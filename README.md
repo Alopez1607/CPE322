@@ -1,27 +1,38 @@
-### Adriana Lopez
-## Adriana Lopez
-# Adriana Lopez 
-## Adriana Lopez
-### Adriana Lopez
+# Adriana Lopez
+## Stevens Institute of Technology
+#### Computer Engineering major 
+#### Junior
+---
+**Concentrations:**
 
-**Bold Adriana Lopez**
+- *Electronics and Embedded Systems*
 
-*Italicized Adriana Lopez*
+- *Software Engineering and Design*
 
->this is a blockquote
+---
 
-1. Cuba
-2. Spain
-3. Italy
+**About Me**
 
+*Hobbies:*
+>working out, cooking, dancing
+
+*Languages Learned/Learning:*
+1. C++
+2. Python
+3. Java
+
+*Countries visited:*
 - Cuba
 - Spain
-- Italy
+- Canada
+- Portugal
 
-Use `code`
+---
+
+Use `git status`
 
 ---
 
 [Stevens Institute of Technology](https://www.stevens.edu/)
 
-![Toledo, Spain](https://www.travelinfusedlife.com/wp-content/uploads/2021/08/toledo-spain-travel-guide-1.jpg)
+![Toledo, Spain](https://gradschoolshopper.com/custom/domain_1/image_files/684_photo_1367.png)
