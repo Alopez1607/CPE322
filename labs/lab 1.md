@@ -3,7 +3,7 @@
 ## Half Adder 
 ***Terminal***
 
-![image](pictures/Screenshot (277).png)
+![image](https://raw.githubusercontent.com/Alopez1607/CPE322/main/labs/pictures/Screenshot%20(277).png)
 
 
 
