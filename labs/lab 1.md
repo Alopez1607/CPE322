@@ -3,5 +3,7 @@
 ## Half Adder 
 ***Terminal***
 
-![image](C:\Users\Adriana Lopez\OneDrive\Pictures\Screenshots\Screenshot (277).png)
+![image](pictures/Screenshot (277).png)
+
+
 
