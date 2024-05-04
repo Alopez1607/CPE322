@@ -8,3 +8,4 @@
 6. Run python3 subcpu.py on one Terminal
 7. Run python3 pubcpu.py on another
 
+![image](https://github.com/Alopez1607/CPE322/blob/main/labs/pictures/Screenshot%20(386).png)
