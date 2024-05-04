@@ -7,3 +7,4 @@
 5. Change directory to Lesson 5
 6. Run python3 subcpu.py on one Terminal
 7. Run python3 pubcpu.py on another
+
